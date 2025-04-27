@@ -1,4 +1,4 @@
-# Quest Analytics RAG Assistant
+# Analytics RAG Assistant
 
 An AI-powered Retrieval-Augmented Generation (RAG) assistant that helps researchers analyze scientific papers efficiently. This tool can read, understand, and summarize vast amounts of data in real-time.
 
@@ -71,7 +71,7 @@ python qa_bot.py
 
 ## Note
 
-The PDF and text files should be placed in the "/Users/{user}/Downloads/" directory or update the paths in the code:
+The PDF and text files should be placed in the "/Users/{user}/Downloads/" directory or update the paths in the code
 
 ## License
 
